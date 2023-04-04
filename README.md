@@ -1,5 +1,6 @@
 # movie_recommendations
-A Web Base user-item Movie Recommendation Engine using  in which user will get 5 recommendations based on the search.
+A Web Base user-item Movie Recommendation Engine using content based approach in which user will get 5 recommendations based on the search.
+Here, we used cosine similarity.
 
 Technologies Used:
 Html , Css , Bootstrap
