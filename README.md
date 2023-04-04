@@ -1,4 +1,4 @@
-# movie_recommendations
+# Movie Recommendations
 A Web Base user-item Movie Recommendation Engine using content based approach in which user will get 5 recommendations based on the search.
 Here, we used cosine similarity.
 
