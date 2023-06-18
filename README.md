@@ -9,10 +9,10 @@ Machine Learning Libraries In Python3
 Numpy , Pandas, pickle, etc..
 
 Requirements
+
 python 3.6
 pip3
 
 Screenshot:
-<img width="960" alt="2022-11-08 (1)" src="https://user-images.githubusercontent.com/104514318/229742958-58ad5a15-4afe-4cf2-aeba-01a60e6c44f4.png">
+<img width="960" alt="2022-11-08 (1)" src="https://github.com/sreejajulakanti/movie_recommendations/assets/104514318/4484c711-12a9-472b-b5a0-d397d753fb6a">
 
-<img width="960" alt="2022-11-08" src="https://user-images.githubusercontent.com/104514318/229742997-688fa463-4214-4795-a43d-bf5baa24db50.png">
