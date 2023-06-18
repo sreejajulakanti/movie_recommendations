@@ -1,16 +1,15 @@
 # Movie Recommendations
-A Web Base user-item Movie Recommendation Engine using content based approach in which user will get 5 recommendations based on the search.
-Here, we used cosine similarity.
+A Web Based Movie Recommendation Engine using content based approach in which user will get 5 recommendations based on the search.
+Here, we used cosine similarity algorithm.
 
 Technologies Used:
 Html , Css , Bootstrap
 
-Machine Learning Library In Python3
-Numpy , Pandas
+Machine Learning Libraries In Python3
+Numpy , Pandas, pickle, etc..
 
 Requirements
 python 3.6
-
 pip3
 
 Screenshot:
